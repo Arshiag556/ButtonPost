@@ -4,9 +4,9 @@ import json
 import re
 
 # Configuration
-TOKEN = '7167390844:AAGgdmBvT235tAhR2-aBtG5PNewJMVjyDTU'
-CHANNEL_ID = '@Arshiaabedi_dev'
-ADMIN_ID = 6288319914  # Note: Make sure this is the correct admin ID
+TOKEN = ''
+CHANNEL_ID = ''
+ADMIN_ID =   # Note: Make sure this is the correct admin ID
 
 bot = telebot.TeleBot(TOKEN)
 user_data = {}
