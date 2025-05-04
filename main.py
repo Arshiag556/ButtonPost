@@ -1,3 +1,8 @@
+# Author: Saske (Arshiag556)
+# GitHub: https://github.com/Arshiag556
+# Date: 2025-05-04
+# Description:Telegram Button Message Builder Bot
+
 import telebot
 from telebot import types
 import json
