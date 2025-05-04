@@ -1,0 +1,42 @@
+{
+  "fa": {
+    "welcome": "به ربات ساخت پیام با دکمه‌های شیشه‌ای خوش آمدید!\nبرای شروع دکمه 'ساخت پیام جدید' را انتخاب کنید.",
+    "create_new": "ساخت پیام جدید ✨",
+    "send_to_channel": "ارسال به کانال 📤",
+    "start_text": "لطفا متن اصلی پیام را ارسال کنید:",
+    "choose_buttons": "تعداد دکمه‌هایی که می‌خواهید اضافه کنید را انتخاب نمایید:",
+    "enter_button_text": "متن دکمه شماره {n} را وارد کنید:",
+    "enter_button_url": "لطفا لینک دکمه شماره {n} را وارد کنید:",
+    "setup_done": "تنظیمات دکمه‌ها تکمیل شد. چه کاری انجام دهیم؟",
+    "preview": "پیش نمایش 👀",
+    "restart": "شروع مجدد 🔄",
+    "preview_message": "📌 پیش نمایش پیام:\n\n{text}",
+    "no_permission": "شما مجوز ارسال به کانال را ندارید.",
+    "sent_success": "پیام با موفقیت به کانال ارسال شد!",
+    "send_error": "خطا در ارسال پیام: {error}",
+    "invalid_number": "لطفا یک عدد معتبر انتخاب کنید.",
+    "language_prompt": "لطفاً زبان مورد نظر خود را انتخاب کنید:",
+    "lang_fa": "🇮🇷 فارسی",
+    "lang_en": "🇺🇸 English"
+  },
+  "en": {
+    "welcome": "Welcome to the inline button message creator bot!\nTap 'Create New Message' to get started.",
+    "create_new": "Create New Message ✨",
+    "send_to_channel": "Send to Channel 📤",
+    "start_text": "Please send the main message text:",
+    "choose_buttons": "Select how many buttons you want to add:",
+    "enter_button_text": "Enter text for button #{n}:",
+    "enter_button_url": "Please enter the URL for button #{n}:",
+    "setup_done": "Button setup is complete. What would you like to do next?",
+    "preview": "Preview 👀",
+    "restart": "Restart 🔄",
+    "preview_message": "📌 Message preview:\n\n{text}",
+    "no_permission": "You don't have permission to post to the channel.",
+    "sent_success": "Message successfully sent to the channel!",
+    "send_error": "Error sending message: {error}",
+    "invalid_number": "Please select a valid number.",
+    "language_prompt": "Please choose your preferred language:",
+    "lang_fa": "🇮🇷 Persian",
+    "lang_en": "🇺🇸 English"
+  }
+}
