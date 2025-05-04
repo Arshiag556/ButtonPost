@@ -43,7 +43,8 @@ pip install -r requirements.txt
 ```
 
 ### Configuration
-1. Create `config.py` file:
+1. Complete the following information in `main.py`: 
+
 ```python
 TOKEN = 'YOUR_BOT_TOKEN'  # Get from @BotFather
 CHANNEL_ID = '@YOUR_CHANNEL'  # Target channel
