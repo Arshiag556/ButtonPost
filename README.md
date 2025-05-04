@@ -3,7 +3,11 @@
 # Telegram Bot: Message with Inline Button
 
 
+## Preview
 
+<p align="center">
+  <img src="Images/Screenshot_2025-05-05-00-48-26-676_org.telegram.messenger.jpg" alt="Bot Preview">
+</p>
 
 <!-- فارسی محتوا --># Telegram Post Bot
 
