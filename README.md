@@ -54,7 +54,7 @@ ADMIN_ID = 123456789  # Your numeric ID
 
 ### Running the Bot
 ```bash
-python bot.py
+python main.py
 ```
 
 ## 🎯 Example Usage
