@@ -98,5 +98,5 @@ Thank you for supporting open-source development!
 
 ---
 
-🛠 Developed with ❤️ by [Arshia Abedi](https://github.com/Arshiaabedi), [Ilia Abedi](https://github.com/iliag556)
+🛠 Developed with ❤️ by [Arshia Abedi](https://github.com/Arshiag556), [Ilia Abedi](https://github.com/iliag556)
 
