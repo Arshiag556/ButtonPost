@@ -22,8 +22,8 @@
 
 ### پیش‌نیازها
 ```bash
-git clone https://github.com/Arshiaabedi/telegram-post-bot.git
-cd telegram-post-bot
+git clone https://github.com/Arshiag556/ButtonPost.git
+cd ButtonPost
 python -m venv venv
 source venv/bin/activate  # لینوکس/مک
 venv\Scripts\activate  # ویندوز
@@ -42,7 +42,7 @@ ADMIN_ID = 123456789  # آیدی عددی شما
 
 ### اجرای ربات
 ```bash
-python bot.py
+python main.py
 ```
 
 ## 💰 حمایت مالی
