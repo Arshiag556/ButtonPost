@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 
 ### پیکربندی
-1. . اطلاعات زیر را در فایل `main.py` تکمیل کنید:
+1. اطلاعات زیر را در فایل `main.py` تکمیل کنید:
 
 ```python
 TOKEN = 'YOUR_BOT_TOKEN'  # Get from @BotFather
