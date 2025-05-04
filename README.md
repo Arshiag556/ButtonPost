@@ -34,8 +34,8 @@ A professional bot for managing Telegram channel posts...
 
 ### Prerequisites
 ```bash
-git clone https://github.com/Arshiaabedi/telegram-post-bot.git
-cd telegram-post-bot
+git clone https://github.com/Arshiag556/ButtonPost.git
+cd ButtonPost
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate  # Windows
