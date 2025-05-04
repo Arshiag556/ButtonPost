@@ -29,6 +29,7 @@ pip install -r requirements.txt
 
 ### پیکربندی
 1. . اطلاعات زیر را در فایل `main.py` تکمیل کنید:
+
 ```python
 TOKEN = 'YOUR_BOT_TOKEN'  # Get from @BotFather
 CHANNEL_ID = '@YOUR_CHANNEL'  # Target channel
