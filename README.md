@@ -2,9 +2,6 @@
 
 # Telegram Post Bot
 
-<div align="right">
-  <a href="#فارسی">به فارسی بخوانید</a>
-</div>
 
 
 
