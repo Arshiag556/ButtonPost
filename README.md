@@ -1,75 +1,105 @@
-# 📝 Telegram Post Bot - راهنمای کامل برای GitHub
+[English](#) | [فارسی](README-fa.md)  <!-- Link to other version -->
 
-## 🏷 عنوان پروژه
-**ربات ساخت و ارسال پست حرفه‌ای به کانال تلگرام**
+# Telegram Post Bot
 
-## 🌟 ویژگی‌های کلیدی
-- ساخت پست‌های متنی و تصویری
-- افزودن دکمه‌های شیشه‌ای با لینک
-- پشتیبانی از چندزبانی (فارسی/انگلیسی)
-- امکان پیش‌نمایش قبل از ارسال
-- محدودیت دسترسی برای ارسال به کانال
+<div align="right">
+  <a href="#فارسی">به فارسی بخوانید</a>
+</div>
 
-## 🛠 فناوری‌های استفاده شده
+
+
+<!-- فارسی محتوا --># Telegram Post Bot
+
+
+
+
+A professional bot for managing Telegram channel posts...
+
+</div>
+# 📝 Telegram Post Bot - Complete Guide
+
+## 🏷 Project Title
+**Professional Telegram Channel Post Bot**
+
+## 🌟 Key Features
+- Create text and image posts
+- Add stylish buttons with links
+- Multi-language support (Persian/English)
+- Preview before sending
+- Restricted channel posting access
+
+## 🛠 Technologies Used
 - Python 3.10+
 - pyTelegramBotAPI
-- JSON برای مدیریت زبان‌ها
+- JSON for language management
 
-## 📦 نحوه نصب و راه‌اندازی
+## 📦 Installation Guide
 
-### پیش‌نیازها
+### Prerequisites
 ```bash
 git clone https://github.com/Arshiaabedi/telegram-post-bot.git
 cd telegram-post-bot
 python -m venv venv
-source venv/bin/activate  # برای لینوکس/macOS
-venv\Scripts\activate  # برای ویندوز
+source venv/bin/activate  # Linux/macOS
+venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 ```
 
-### تنظیمات
-1. فایل `config.py` را ایجاد کنید:
+### Configuration
+1. Create `config.py` file:
 ```python
-TOKEN = 'توکن_ربات_شما'
-CHANNEL_ID = '@آیدی_کانال_شما'
-ADMIN_ID = 123456789  # آیدی عددی ادمین
+TOKEN = 'YOUR_BOT_TOKEN'  # Get from @BotFather
+CHANNEL_ID = '@YOUR_CHANNEL'  # Target channel
+ADMIN_ID = 123456789  # Your numeric ID
 ```
 
-2. فایل `lang.json` را با ترجمه‌های مورد نظر پر کنید.
+2. Configure `lang.json` with your translations
 
-### اجرا
+### Running the Bot
 ```bash
 python bot.py
 ```
 
-
-## 🎯 نمونه استفاده
+## 🎯 Example Usage
 ```python
-# نمونه کد برای توسعه‌دهندگان
+# Sample code for developers
 from telebot import TeleBot
 
 bot = TeleBot(TOKEN)
 
 @bot.message_handler(commands=['start'])
 def start(message):
-    bot.reply_to(message, "خوش آمدید!")
+    bot.reply_to(message, "Welcome!")
 ```
 
-## 🤝 مشارکت
-1. ریپوی پروژه را Fork کنید
-2. شاخه جدید ایجاد کنید (`git checkout -b feature/AmazingFeature`)
-3. تغییرات را Commit کنید (`git commit -m 'Add some AmazingFeature'`)
-4. به شاخه اصلی Push کنید (`git push origin feature/AmazingFeature`)
-5. یک Pull Request باز کنید
+## 🤝 Contributing
+1. Fork the repository
+2. Create new branch (`git checkout -b feature/AmazingFeature`)
+3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to branch (`git push origin feature/AmazingFeature`)
+5. Open Pull Request
 
-## 📜 مجوز
-این پروژه تحت مجوز **MIT** منتشر شده است - برای جزئیات به فایل [LICENSE](LICENSE) مراجعه کنید.
+## 📜 License
+This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file for details.
+## 💰 Donations / Support
 
-## ✉️ ارتباط با توسعه‌دهنده
-- ایمیل: arshiag556@gmail.com
-- تلگرام: [@ArshY0X](https://t.me/ArshY0X)
+Support this project's development with cryptocurrency:
 
+**Cryptocurrency:**
+- BTC: `bc1qfe63rl66wplznzwzlys95gnetjrg8lx4gcysw7`
+- ETH: `0xde0D7CD3bAeA6a64D4e28cF10B1ECB03C6a231EA` 
+- USDT (BEP20): `0xde0D7CD3bAeA6a64D4e28cF10B1ECB03C6a231EA`
+- TRX (TRC20): `TKj9AGcMK8Qz8utcWQ5ZhnyA9tcLxLBTxW`
+- LTC: `ltc1q0ycmvh0qd5fsaj89hhqp842yvxgtygk4n5zvsz`
+
+Thank you for supporting open-source development!
+
+---
+## ✉️ Contact Developer
+- Email: arshiag556@gmail.com
+- Telegram: [@ArshY0X](https://t.me/ArshY0X)
 
 ---
 
-🛠 توسعه داده شده با ❤️ توسط [آرشیا عابدی](https://github.com/Arshiaabedi) , [ایلیا عابدی](https://github.com/iliag556)
+🛠 Developed with ❤️ by [Arshia Abedi](https://github.com/Arshiaabedi), [Ilia Abedi](https://github.com/iliag556)
+
