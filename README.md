@@ -1,6 +1,6 @@
 [English](#) | [فارسی](README-fa.md)  <!-- Link to other version -->
 
-# Telegram Post Bot
+# ButtonPost
 
 
 
