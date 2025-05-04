@@ -28,11 +28,11 @@ pip install -r requirements.txt
 ```
 
 ### پیکربندی
-1. فایل `config.py` را ایجاد کنید:
+1. . اطلاعات زیر را در فایل `main.py` تکمیل کنید:
 ```python
-TOKEN = 'توکن ربات شما'  # از @BotFather دریافت کنید
-CHANNEL_ID = '@کانال_مقصد'  # کانال هدف
-ADMIN_ID = 123456789  # شناسه عددی شما
+TOKEN = 'YOUR_BOT_TOKEN'  # Get from @BotFather
+CHANNEL_ID = '@YOUR_CHANNEL'  # Target channel
+ADMIN_ID = 123456789  # Your numeric ID
 ```
 
 2. فایل `lang.json` را با ترجمه های خود تنظیم کنید
