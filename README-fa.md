@@ -31,9 +31,9 @@ pip install -r requirements.txt
 1. اطلاعات زیر را در فایل `main.py` تکمیل کنید:
 
 ```python
-TOKEN = 'YOUR_BOT_TOKEN'  # Get from @BotFather
-CHANNEL_ID = '@YOUR_CHANNEL'  # Target channel
-ADMIN_ID = 123456789  # Your numeric ID
+TOKEN = 'YOUR_BOT_TOKEN'  # از @BotFather
+CHANNEL_ID = '@YOUR_CHANNEL'  # ایدی چنل
+ADMIN_ID = 123456789  # ایدی عددی
 ```
 
 2. فایل `lang.json` را با ترجمه های خود تنظیم کنید
