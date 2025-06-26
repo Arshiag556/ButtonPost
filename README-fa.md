@@ -80,8 +80,7 @@ def start(message):
 - ETH: `0xF4e732262D4e2ADbb3Ac00C887b247188EF230D9` 
 - USDT (BEP20): `0xF4e732262D4e2ADbb3Ac00C887b247188EF230D9`
 - TRX (TRC20): `TTvrTWctxRxG9mQmbVpCjRkoDazCWjcPYF`
-- LTC: `ltc1q897dhng7s0m9nlytkaujzs6r33a2qv8ey3xwue
-
+- LTC: `ltc1q897dhng7s0m9nlytkaujzs6r33a2qv8ey3xwue`
 از حمایت شما از توسعه نرم افزارهای متن باز متشکریم!
 
 ---
