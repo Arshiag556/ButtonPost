@@ -88,11 +88,11 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 Support this project's development with cryptocurrency:
 
 **Cryptocurrency:**
-- BTC: `bc1qfe63rl66wplznzwzlys95gnetjrg8lx4gcysw7`
-- ETH: `0xde0D7CD3bAeA6a64D4e28cF10B1ECB03C6a231EA` 
-- USDT (BEP20): `0xde0D7CD3bAeA6a64D4e28cF10B1ECB03C6a231EA`
-- TRX (TRC20): `TKj9AGcMK8Qz8utcWQ5ZhnyA9tcLxLBTxW`
-- LTC: `ltc1q0ycmvh0qd5fsaj89hhqp842yvxgtygk4n5zvsz`
+- BTC: `bc1q94at0ecvv2ldcp4wx373npvn5tssu7z78yp9dk`
+- ETH: `0xF4e732262D4e2ADbb3Ac00C887b247188EF230D9` 
+- USDT (BEP20): `0xF4e732262D4e2ADbb3Ac00C887b247188EF230D9`
+- TRX (TRC20): `TTvrTWctxRxG9mQmbVpCjRkoDazCWjcPYF`
+- LTC: `ltc1q897dhng7s0m9nlytkaujzs6r33a2qv8ey3xwue`
 
 Thank you for supporting open-source development!
 
