@@ -75,11 +75,12 @@ def start(message):
 از توسعه این پروژه با ارزهای دیجیتال حمایت کنید:
 
 **ارزهای دیجیتال:**
-- بیت کوین: `bc1qfe63rl66wplznzwzlys95gnetjrg8lx4gcysw7`
-- اتریوم: `0xde0D7CD3bAeA6a64D4e28cF10B1ECB03C6a231EA` 
-- تتر (BEP20): `0xde0D7CD3bAeA6a64D4e28cF10B1ECB03C6a231EA`
-- ترون (TRC20): `TKj9AGcMK8Qz8utcWQ5ZhnyA9tcLxLBTxW`
-- لایت کوین: `ltc1q0ycmvh0qd5fsaj89hhqp842yvxgtygk4n5zvsz`
+
+- BTC: `bc1q94at0ecvv2ldcp4wx373npvn5tssu7z78yp9dk`
+- ETH: `0xF4e732262D4e2ADbb3Ac00C887b247188EF230D9` 
+- USDT (BEP20): `0xF4e732262D4e2ADbb3Ac00C887b247188EF230D9`
+- TRX (TRC20): `TTvrTWctxRxG9mQmbVpCjRkoDazCWjcPYF`
+- LTC: `ltc1q897dhng7s0m9nlytkaujzs6r33a2qv8ey3xwue
 
 از حمایت شما از توسعه نرم افزارهای متن باز متشکریم!
 
